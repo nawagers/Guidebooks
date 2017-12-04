@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="GPX Editor 1.6.18.1649" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+        <text>Garmin International</text>
+        </link>
+        <time>2017-10-30T22:44:46Z</time>
+        <bounds minlat="41.2676049862057" minlon="-72.8447120077908" maxlat="42.7220510132611" maxlon="-72.248186962679" />
+    </metadata>
+    <wpt lat="41.7139010131359" lon="-72.8210710175335">
+        <name>Abandoned Car</name>
+        <cmt>Abandoned Car</cmt>
+    </wpt>
+    <wpt lat="42.4698890000582" lon="-72.3840550146997">
+        <name>Abandoned Road</name>
+        <cmt>Abandoned Road, trail joins former Macedonia Road</cmt>
+    </wpt>
+    <wpt lat="42.4990949872881" lon="-72.3652610275894">
+        <name>Abandoned Road 2</name>
+        <cmt>Abandoned Road, NOBO turn W to join abandoned Rockwood Hill Road</cmt>
+    </wpt>
+    <wpt lat="41.7915239743888" lon="-72.7877609990537">
+        <name>Albany Avenue (US44)</name>
+        <cmt>Albany Avenue (US44), Parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.6834169775248" lon="-72.4036120064557">
+        <name>Alexander Hill Road 2</name>
+        <cmt>Alexander Hill Road, Parking, Powerlines</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.3889440391213" lon="-72.422253023833">
+        <name>Amherst Road</name>
+        <cmt>Amherst Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="42.3900979757309" lon="-72.4206199776381">
+        <name>Amherst Road and North Valley Road</name>
+        <cmt>Amherst Road + North Valley Road, NOBO turn sharp W on road</cmt>
+    </wpt>
+    <wpt lat="41.2755910120904" lon="-72.6735650282353">
+        <name>Amtrak Station</name>
+        <cmt>Amtrak Station, Cross with skywalk over tracks</cmt>
+    </wpt>
+    <wpt lat="41.6300601884723" lon="-72.8334628231823">
+        <name>Andrews Sreet</name>
+        <cmt>Andrews Street, NOBO turn E on road, then W on Long Bottom Street</cmt>
+    </wpt>
+    <wpt lat="42.1847489755601" lon="-72.6671839691699">
+        <name>Apremont Highway</name>
+        <cmt>Apremont Highway, Limited Parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.4311699718237" lon="-72.400023965165">
+        <name>Atherton Brook</name>
+        <cmt>Atherton Brook, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.7158329822123" lon="-72.2558999899775">
+        <name>Athol-Richmond Road</name>
+        <cmt>Athol-Richmond Road, Newton Cemetery, limited parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5674560051411" lon="-72.7383689582348">
+        <name>Atkins Street</name>
+        <cmt>Atkins Street, NOBO turn E on road, limited parking on shoulder</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5726109594107" lon="-72.7390680089593">
+        <name>Atkins Street 2</name>
+        <cmt>Atkins Street, NOBO turn W on to trail</cmt>
+    </wpt>
+    <wpt lat="41.5335829742253" lon="-72.7305089961737">
+        <name>Baileyville Road (CT147)</name>
+        <cmt>Baileyville Road (CT147), NOBO turn W on road and cross Meriden Road (CT66), New Guida's restaurant (BLD)</cmt>
+    </wpt>
+    <wpt lat="41.7255960311741" lon="-72.8072770033032">
+        <name>Bancroft Memorial</name>
+        <cmt>Bancroft Memorial, bench</cmt>
+    </wpt>
+    <wpt lat="42.3036350402981" lon="-72.5313839782029">
+        <name>Bare Mountain</name>
+        <cmt>Bare Mountain, Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.141302973032" lon="-72.6831390056759">
+        <name>Barrier</name>
+        <cmt>Concrete barrier, NOBO continue W along I-90 until tunnel</cmt>
+    </wpt>
+    <wpt lat="41.9027199782431" lon="-72.7640889957547">
+        <name>Bartlett Tower</name>
+        <cmt>Bartlett Tower ruins, remnants of 70 ft resort tower built in 1890's</cmt>
+    </wpt>
+    <wpt lat="42.6844249852002" lon="-72.3801399953663">
+        <name>Bass Road</name>
+        <cmt>Bass Road</cmt>
+    </wpt>
+    <wpt lat="42.3102060332894" lon="-72.4570520035923">
+        <name>Bay Road</name>
+        <cmt>Bay Road, Ropes for steep climb S of road, Limited parking, NOBO turn 500 ft E on road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.5054870266467" lon="-72.4356079939753">
+        <name>Beach</name>
+        <cmt>Beach to W (compass S), Restrooms, Parking</cmt>
+        <desc>sp</desc>
+    </wpt>
+    <wpt lat="41.7222720198333" lon="-72.8110539726913">
+        <name>Bench</name>
+        <cmt>Bench</cmt>
+    </wpt>
+    <wpt lat="41.8604300078005" lon="-72.7787770237774">
+        <name>Bench 2</name>
+        <cmt>Bench</cmt>
+    </wpt>
+    <wpt lat="42.1054880227894" lon="-72.6977339945734">
+        <name>Bench 3</name>
+        <cmt>Bench</cmt>
+    </wpt>
+    <wpt lat="41.5975865162909" lon="-72.7547223865986">
+        <name>Berlin Turnpike (US5) and Orchard Road</name>
+        <cmt>Berlin Turnpike (US5) and Orchard Road, NOBO cross US5 and turn W on Orchard Road</cmt>
+    </wpt>
+    <wpt lat="41.5992538444698" lon="-72.7539609745145">
+        <name>Berlin Turnpike (US5) and Spruce Brook Road</name>
+        <cmt>Berlin Turnpike (US5) and Spruce Brook Road, NOBO turn W, Johnson's Motel and Subway restaurant 0.2E</cmt>
+    </wpt>
+    <wpt lat="41.6664949804544" lon="-72.8197630215436">
+        <name>Black Rock Avenue</name>
+        <cmt>Black Rock Avenue, NOBO continue E on road</cmt>
+    </wpt>
+    <wpt lat="41.6656621545553" lon="-72.8170011844486">
+        <name>Black Rock Avenue and Wooster Street</name>
+        <cmt>Black Rock Avenue and Wooster Street, NOBO turn W on Wooster towards underpass</cmt>
+    </wpt>
+    <wpt lat="42.7143629640341" lon="-72.2722020372748">
+        <name>Bliss Hill Road</name>
+        <cmt>Bliss Hill Road, NOBO turn W on road</cmt>
+    </wpt>
+    <wpt lat="42.7154650166631" lon="-72.2725440189242">
+        <name>Bliss Hill Road 2</name>
+        <cmt>Bliss Hill Road, NOBO turn E on trail</cmt>
+    </wpt>
+    <wpt lat="41.4110350236297" lon="-72.6968500390649">
+        <name>Bluff Head</name>
+        <cmt>Bluff Head, ridge continues north for 0.3 with several views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.0410590153188" lon="-72.7139699924737">
+        <name>Boardwalk</name>
+        <cmt>Boardwalk over wetlands</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.3223020173609" lon="-72.6720800064504">
+        <name>Bog Bridge 1</name>
+        <cmt>Bog Bridging</cmt>
+    </wpt>
+    <wpt lat="41.3244549930096" lon="-72.6676449738443">
+        <name>Bog Bridge 2</name>
+        <cmt>Bog Bridging</cmt>
+    </wpt>
+    <wpt lat="41.7066130321473" lon="-72.8316430281848">
+        <name>Bog Bridge 3</name>
+        <cmt>Bog Bridging</cmt>
+    </wpt>
+    <wpt lat="41.3524720072746" lon="-72.6843360252678">
+        <name>Bog Bridge 4</name>
+        <cmt>Bog Bridging</cmt>
+    </wpt>
+    <wpt lat="42.0372149907053" lon="-72.7153479773551">
+        <name>Bog Bridge 5</name>
+        <cmt>Bog Bridging</cmt>
+    </wpt>
+    <wpt lat="42.6030689757317" lon="-72.4410060234368">
+        <name>Bog Bridge 6</name>
+        <cmt>Bog Bridging</cmt>
+    </wpt>
+    <wpt lat="42.6325669884682" lon="-72.4171809665859">
+        <name>Bog Bridge 7</name>
+        <cmt>Bog Bridging</cmt>
+    </wpt>
+    <wpt lat="42.7149129845202" lon="-72.2655919846147">
+        <name>Bog Bridge 8</name>
+        <cmt>Bog Bridging</cmt>
+    </wpt>
+    <wpt lat="41.2886699661613" lon="-72.6601150073111">
+        <name>Boston Post Road (US1) and Boston Street</name>
+        <cmt>Boston Post Road (US1) + Boston Street, NOBO turn E, Shoreline Diner (BLD), Guilford to W, restuarants and groceries to W</cmt>
+    </wpt>
+    <wpt lat="42.6034409645945" lon="-72.4415690358728">
+        <name>Briggs Brook</name>
+        <cmt>Briggs Brook, Footbridge, drain from Northfield Mountain Reservoir, do not drink</cmt>
+    </wpt>
+    <wpt lat="42.6044959947467" lon="-72.4439380131662">
+        <name>Briggs Brook 2</name>
+        <cmt>Briggs Brook, 2 crossings, drain from Northfield Mountain Reservoir, do not drink</cmt>
+    </wpt>
+    <wpt lat="41.8548279628158" lon="-72.7827079687268">
+        <name>Cairns</name>
+        <cmt>Cairns, several stacks on short side trail to W</cmt>
+    </wpt>
+    <wpt lat="42.4599810037762" lon="-72.3924199864268">
+        <name>Camel Brook</name>
+        <cmt>Camel Brook</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.6536992508918" lon="-72.8252885397524">
+        <name>Car remnants and foundation</name>
+        <cmt>Abandoned cars to W, old building foundation to E</cmt>
+    </wpt>
+    <wpt lat="41.6118220053613" lon="-72.8226859588176">
+        <name>Carey Street and Bayberry Lane</name>
+        <cmt>Carey Street and Bayberry Lane, Parking 0.3W on Sheldon Road, NOBO turn E on to foot access only road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5570589248091" lon="-72.8352811932564">
+        <name>Castle Craig</name>
+        <cmt>Castle Craig, stone tower with views south to Long Island Sound, outlet, Parking during park hours</cmt>
+        <desc>tpv</desc>
+    </wpt>
+    <wpt lat="41.4729239791632" lon="-72.7261899691075">
+        <name>Cattail Shelter</name>
+        <cmt>Cattail Shelter, two small private shelters open to backpackers, just off trail to E</cmt>
+        <desc>s</desc>
+    </wpt>
+    <wpt lat="41.9244970008731" lon="-72.7491230238229">
+        <name>Cemetery</name>
+        <cmt>Small Pox Cemetery</cmt>
+    </wpt>
+    <wpt lat="41.5627469681203" lon="-72.8095960244536">
+        <name>Chamberlain Highway (CT71)</name>
+        <cmt>Chamberlain Highway (CT71), small stream along highway, limited parking on shoulder</cmt>
+        <desc>Wp</desc>
+    </wpt>
+    <wpt lat="41.5585310384631" lon="-72.759596966207">
+        <name>Chauncey Peak</name>
+        <cmt>Chauncey Peak, Views to quarry and Higby Mountain</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.2791230026633" lon="-72.6221419684589">
+        <name>Christopher Clark Road</name>
+        <cmt>Christopher Clark Road, trail crossing offset, NOBO turn 200 ft W, Views and parking 250 ft E</cmt>
+        <desc>vP</desc>
+    </wpt>
+    <wpt lat="41.2939779739827" lon="-72.6605490222573">
+        <name>Clapboard Hill Road and Tanner Marsh Road</name>
+        <cmt>Clapboard Hill Road + Tanner Marsh Road, NOBO turn E</cmt>
+    </wpt>
+    <wpt lat="41.7072140146047" lon="-72.8276049625129">
+        <name>Colt Highway (US6)</name>
+        <cmt>Colt Highway (US6), Parking 0.1W on side trail S of road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5611320268363" lon="-72.8437680378556">
+        <name>Communications Tower 1</name>
+        <cmt>Communications towers</cmt>
+        <desc>t</desc>
+    </wpt>
+    <wpt lat="41.7008089832962" lon="-72.8327999822795">
+        <name>Communications Tower 2</name>
+        <cmt>Communication Towers</cmt>
+        <desc>t</desc>
+    </wpt>
+    <wpt lat="41.823087958619" lon="-72.7985139749944">
+        <name>Communications Tower 3</name>
+        <cmt>Communication Towers</cmt>
+        <desc>t</desc>
+    </wpt>
+    <wpt lat="42.0840659737587" lon="-72.7045459672809">
+        <name>Communications Tower 4</name>
+        <cmt>Communications Towers, NOBO follow service road for 0.2</cmt>
+        <desc>t</desc>
+    </wpt>
+    <wpt lat="42.1500459685922" lon="-72.6871560327709">
+        <name>Communications Tower 5</name>
+        <cmt>Communications Tower</cmt>
+        <desc>t</desc>
+    </wpt>
+    <wpt lat="42.2442019823939" lon="-72.6478100381792">
+        <name>Communications Tower 6</name>
+        <cmt>Communications Tower, Views</cmt>
+        <desc>vt</desc>
+    </wpt>
+    <wpt lat="42.3038149997592" lon="-72.5328600313514">
+        <name>Communications Tower 7</name>
+        <cmt>Communications Tower</cmt>
+        <desc>t</desc>
+    </wpt>
+    <wpt lat="42.2882669884712" lon="-72.6183649990708">
+        <name>Connecticut River</name>
+        <cmt>Connecticut River, Boat launch and parking, no crossing possible</cmt>
+    </wpt>
+    <wpt lat="42.4530629999936" lon="-72.4013260100037">
+        <name>Cooleyville Road</name>
+        <cmt>Cooleyville Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="42.4645079858601" lon="-72.3817240074277">
+        <name>Cooleyville Road 2</name>
+        <cmt>Cooleyville Road, NOBO turn W on to trail</cmt>
+    </wpt>
+    <wpt lat="42.5125490315259" lon="-72.3938960395753">
+        <name>Cooleyville Road 3</name>
+        <cmt>Cooleyville Road, trail joins road</cmt>
+    </wpt>
+    <wpt lat="41.5660790260881" lon="-72.7209139801562">
+        <name>Country Club Road</name>
+        <cmt>Country Club Road, NOBO turn W on road, Parking 0.3E at Smith Park</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5673470403999" lon="-72.7305850200355">
+        <name>Country Club Road and Bell Street</name>
+        <cmt>Country Club Road + Bell Street, NOBO turn E on Bell Street</cmt>
+    </wpt>
+    <wpt lat="41.5944370161742" lon="-72.7795710414648">
+        <name>Crooked Brook</name>
+        <cmt>Road crosses over Crooked Brook</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.5892200358212" lon="-72.7855040039867">
+        <name>Crooked Brook 2</name>
+        <cmt>Crooked Brook, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.6013350114226" lon="-72.4400929827243">
+        <name>Cross Street and Wells Street</name>
+        <cmt>Cross Street + Wells Street, Limited parking, NOBO turn E on Cross Street</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5651359781623" lon="-72.8061290178448">
+        <name>Dirt road</name>
+        <cmt>Dirt road, NOBO turn E with road into woods and rejoin trail</cmt>
+    </wpt>
+    <wpt lat="42.2773580253124" lon="-72.6254369784147">
+        <name>Dry Knoll</name>
+        <cmt>Dry Knoll, Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.3051939662546" lon="-72.6574400067329">
+        <name>Duck Hole Road</name>
+        <cmt>Duck Hole Road</cmt>
+    </wpt>
+    <wpt lat="42.3836709838361" lon="-72.4206949956715">
+        <name>Dunlop Brook</name>
+        <cmt>Dunlop Brook, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.4078809972852" lon="-72.6963249966502">
+        <name>Durham Road</name>
+        <cmt>Durham Road, trail crosses slightly offset, parking a short distance N (compass S)</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.286205291748" lon="-72.6208519935608">
+        <name>East Street and Underwood Avenue</name>
+        <cmt>East Street + Underwood Avenue, NOBO turn E on East Street</cmt>
+    </wpt>
+    <wpt lat="42.2247599903494" lon="-72.6456739939749">
+        <name>Easthampton Road</name>
+        <cmt>Easthampton Road, Parking, NOBO cross and follow Whiting Reservoir Road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5803900361061" lon="-72.820001989603">
+        <name>Edgewood Road</name>
+        <cmt>Edgewood Road, John Hall Brook, limited parking, NOBO turn W on road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5625260211527" lon="-72.8136029932648">
+        <name>Elmere Reservoir</name>
+        <cmt>Elmere Reservoir</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.7193269785494" lon="-72.248186962679">
+        <name>Falls Brook</name>
+        <cmt>Falls Brook, Footbridge, Tully Trail 0.3E to 45 ft Royalston Falls</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.578580994159" lon="-72.4356570281088">
+        <name>Farley Road and Mormon Hollow Road</name>
+        <cmt>Farley Road + Mormon Hollow Road, NOBO turn W on Farley Road</cmt>
+    </wpt>
+    <wpt lat="41.9115450326353" lon="-72.7622490003705">
+        <name>Farmington River</name>
+        <cmt>Farmington River</cmt>
+    </wpt>
+    <wpt lat="41.7237520124763" lon="-72.8096779994667">
+        <name>Farmington Road (CT4)</name>
+        <cmt>Farmington Road (CT4)</cmt>
+    </wpt>
+    <wpt lat="42.3191910143942" lon="-72.4358260072768">
+        <name>Federal Street</name>
+        <cmt>Federal Street, NOBO turn W on road</cmt>
+    </wpt>
+    <wpt lat="42.328467015177" lon="-72.4489969946444">
+        <name>Federal Street and Gulf Road</name>
+        <cmt>Federal Street + Gulf Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="42.0623130071908" lon="-72.7094190381467">
+        <name>Feeding Hills Road</name>
+        <cmt>Feeding Hills Road (MA57), trail offset, NOBO turn W for 250 ft, Parking to W, Moolicious Farms 0.5W (LD), grill food, ice cream, baked goods</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.1049459651113" lon="-72.6983140222728">
+        <name>Feeding Hills Road (MA187)</name>
+        <cmt>Feeding Hills Road (MA187), Parking 0.2E</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.7227720003575" lon="-72.8097840305418">
+        <name>Fence</name>
+        <cmt>Fence</cmt>
+    </wpt>
+    <wpt lat="41.5890679880977" lon="-72.7855490148067">
+        <name>Fence Style</name>
+        <cmt>Fence Style</cmt>
+    </wpt>
+    <wpt lat="41.3091560080647" lon="-72.6653810217977">
+        <name>Field</name>
+        <cmt>South end of open grassy field</cmt>
+    </wpt>
+    <wpt lat="41.3133280165493" lon="-72.6714599970728">
+        <name>Field 2</name>
+        <cmt>North end of open grassy field</cmt>
+    </wpt>
+    <wpt lat="41.2698049843311" lon="-72.6701120194048">
+        <name>Field Road and Seaside Avenue</name>
+        <cmt>Field Road + Seaside Avenue, NOBO turn W along Seaside Avenue</cmt>
+    </wpt>
+    <wpt lat="41.7580120358616" lon="-72.798148021102">
+        <name>Finger Rock Road</name>
+        <cmt>Finger Rock Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="41.9142799638212" lon="-72.7550679724663">
+        <name>Fireplace</name>
+        <cmt>Fireplace</cmt>
+    </wpt>
+    <wpt lat="42.1055209636688" lon="-72.6928330119699">
+        <name>Fireplace 2</name>
+        <cmt>Fireplace</cmt>
+    </wpt>
+    <wpt lat="41.303944978863" lon="-72.6559340301901">
+        <name>Footbridge</name>
+        <cmt>Footbridge, stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.5729540307075" lon="-72.7407429646701">
+        <name>Footbridge 10</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="41.5686980355531" lon="-72.7573969680816">
+        <name>Footbridge 11</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="41.6402960009873" lon="-72.8121150378138">
+        <name>Footbridge 12</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="41.9037399720401" lon="-72.7646110206842">
+        <name>Footbridge 13</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="41.5579250268638" lon="-72.7235990390182">
+        <name>Footbridge 14</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="42.1163089759648" lon="-72.683437988162">
+        <name>Footbridge 15</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="42.1176779922098" lon="-72.6832410134375">
+        <name>Footbridge 16</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="42.3052919749171" lon="-72.5078660342842">
+        <name>Footbridge 17</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="42.350199026987" lon="-72.4344910215586">
+        <name>Footbridge 18</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="42.5262230169028" lon="-72.4439329840243">
+        <name>Footbridge 19</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="42.7047609910369" lon="-72.356171021238">
+        <name>Footbridge 20</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="41.3094610255212" lon="-72.6644109841436">
+        <name>Footbridge 7</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="41.3184900116175" lon="-72.6703049708158">
+        <name>Footbridge 8</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="41.5730059985071" lon="-72.7398709952831">
+        <name>Footbridge 9</name>
+        <cmt>Footbridge</cmt>
+    </wpt>
+    <wpt lat="42.4135440029204" lon="-72.4014069791883">
+        <name>Gate</name>
+        <cmt>Gate</cmt>
+    </wpt>
+    <wpt lat="42.4307040218264" lon="-72.3982739914209">
+        <name>Gate 2</name>
+        <cmt>Gate</cmt>
+    </wpt>
+    <wpt lat="41.3854090310633" lon="-72.6928009930998">
+        <name>Goat Lot Road</name>
+        <cmt>Goat Lot Road</cmt>
+    </wpt>
+    <wpt lat="42.2721469961107" lon="-72.6320300158113">
+        <name>Goat Peak</name>
+        <cmt>Trail skirts Goat Peak, Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5567750297487" lon="-72.7637350279838">
+        <name>Guiffrida Park</name>
+        <cmt>Guiffrida Park, Bradley Hubbard Reservoir Dam, Parking</cmt>
+        <desc>Wp</desc>
+    </wpt>
+    <wpt lat="42.3499729670584" lon="-72.434454979375">
+        <name>Gulf Road</name>
+        <cmt>Gulf Road, Parking, NOBO turn W on trail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.6595589797944" lon="-72.4190160166472">
+        <name>Gulf Road 2</name>
+        <cmt>Gulf Road, Parking, NOBO turn E on trail</cmt>
+    </wpt>
+    <wpt lat="42.6380380243063" lon="-72.4062460195273">
+        <name>Gulf Road and South Mountain Road</name>
+        <cmt>Gulf Road + South Mountain Road, NOBO turn W on Gulf Road</cmt>
+    </wpt>
+    <wpt lat="42.3075049649924" lon="-72.4706089776009">
+        <name>Harris Street</name>
+        <cmt>Harris Street, Limited parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.365074031055" lon="-72.6904740091413">
+        <name>Hart Road</name>
+        <cmt>Hart Road, NOBO turn E along road</cmt>
+    </wpt>
+    <wpt lat="41.3670250028372" lon="-72.6893639937043">
+        <name>Hart Road 2</name>
+        <cmt>Hart Road, NOBO leave road and follow trail W</cmt>
+    </wpt>
+    <wpt lat="41.9082069396973" lon="-72.7613997459412">
+        <name>Hartford Avenue (CT189) and Elm Street and Mountain Road</name>
+        <cmt>Hartford Avenue (CT189) + Elm Street + Mountain Road, NOBO follow CT189 W (compass N)</cmt>
+    </wpt>
+    <wpt lat="41.7932440247387" lon="-72.7853050176054">
+        <name>Hartford Reservoir Number 6</name>
+        <cmt>Hartford Reservoir Number 6, Parking, Trash, Porta-potty</cmt>
+        <desc>Wpr</desc>
+    </wpt>
+    <wpt lat="41.8381229974329" lon="-72.7850500401109">
+        <name>Hartford Road (CT185)</name>
+        <cmt>Hartford Road (CT185), Parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.9218889717013" lon="-72.7503239829093">
+        <name>Hatchet Hill Road</name>
+        <cmt>Hatchet Hill Road, Limited parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.2779520265758" lon="-72.6770440209657">
+        <name>Henry Whitfield State Museum</name>
+        <cmt>Henry Whitfield State Museum, NOBO turn E towards museum</cmt>
+    </wpt>
+    <wpt lat="41.8258730135858" lon="-72.7985849697143">
+        <name>Heublein Tower</name>
+        <cmt>Heublein Tower, pit toilets, drinking fountains</cmt>
+        <desc>WtP</desc>
+    </wpt>
+    <wpt lat="41.5701439976692" lon="-72.7333300095052">
+        <name>Highland Pond</name>
+        <cmt>Highland Pond, spillway</cmt>
+    </wpt>
+    <wpt lat="41.571131972596" lon="-72.7320360112935">
+        <name>Highland Pond Preserve</name>
+        <cmt>Highland Pond Preserve, NOBO turn W on to trail</cmt>
+    </wpt>
+    <wpt lat="41.9459260068834" lon="-72.7412779815495">
+        <name>Holcomb Street</name>
+        <cmt>Holcomb Street, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="42.599708000198" lon="-72.438915995881">
+        <name>Holmes Street and Wells Street</name>
+        <cmt>Holmes Street + Wells Street, NOBO turn W on Wells Street</cmt>
+    </wpt>
+    <wpt lat="41.4391180034727" lon="-72.7353340387344">
+        <name>Howd Road</name>
+        <cmt>Howd Road, limited parking on shoulder</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.2986649665982" lon="-72.6556150149554">
+        <name>Howletts Bridge</name>
+        <cmt>Howletts Bridge over East River</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.2890510074794" lon="-72.6581630297005">
+        <name>I-95</name>
+        <cmt>Bridge over I-95</cmt>
+    </wpt>
+    <wpt lat="41.3425770029426" lon="-72.676741015166">
+        <name>Iron Stream</name>
+        <cmt>Iron Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5149460043758" lon="-72.393252979964">
+        <name>Jennison Road and Cooleyville Road</name>
+        <cmt>Jennison Road + Cooleyville Road, NOBO turn W on Cooleyville Road</cmt>
+    </wpt>
+    <wpt lat="42.5625119637698" lon="-72.4468249920756">
+        <name>Jerusalem Road</name>
+        <cmt>Jerusalem Road, Parking, NOBO turn 0.1E on road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.7185740321875" lon="-72.2929960303009">
+        <name>Kelton Road</name>
+        <cmt>Kelton Road (off road vehicles only)</cmt>
+    </wpt>
+    <wpt lat="42.7163400035352" lon="-72.293405989185">
+        <name>Kelton Road 2</name>
+        <cmt>Kelton Road (off road vehicles only), NOBO turn W on road</cmt>
+    </wpt>
+    <wpt lat="42.7127709891647" lon="-72.2882490232587">
+        <name>Kelton Road 3</name>
+        <cmt>Kelton Road (off road vehicles only), NOBO turn W on trail</cmt>
+    </wpt>
+    <wpt lat="41.5928690135479" lon="-72.7833689656109">
+        <name>Kensington Road and Orchard Road</name>
+        <cmt>Kensington Road + Orchard Road, NOBO turn W on to trail</cmt>
+    </wpt>
+    <wpt lat="42.5079089775681" lon="-72.4293160345405">
+        <name>Lake Wyola</name>
+        <cmt>Lake Wyola</cmt>
+    </wpt>
+    <wpt lat="42.5064699724317" lon="-72.4316359777004">
+        <name>Lakeview Road</name>
+        <cmt>Lakeview Road, NOBO turn E across field</cmt>
+    </wpt>
+    <wpt lat="41.5963360201567" lon="-72.7406129613519">
+        <name>Lamentation Drive</name>
+        <cmt>Lamentation Drive, NOBO turn E on road to stop sign then cross guard rail to rejoin trail</cmt>
+    </wpt>
+    <wpt lat="41.5745350252837" lon="-72.7622220106423">
+        <name>Lamentation Mountain</name>
+        <cmt>Lamentation Mountain, Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.1462639700621" lon="-72.6890869718045">
+        <name>Lookout Tower</name>
+        <cmt>Lookout Tower</cmt>
+        <desc>t</desc>
+    </wpt>
+    <wpt lat="41.2837518844754" lon="-72.6748951524496">
+        <name>Lovers Lane and Boston Street</name>
+        <cmt>Lovers Lane + Boston Street, NOBO turn E</cmt>
+    </wpt>
+    <wpt lat="41.2790588568896" lon="-72.6714765932411">
+        <name>Lovers Lane and Stone House Lane</name>
+        <cmt>Lovers Lane + Stone House Lane, NOBO turn W on Lovers Lane</cmt>
+    </wpt>
+    <wpt lat="41.9097280036658" lon="-72.7620462421328">
+        <name>Main Street</name>
+        <cmt>Main Street, Water at park (0.1W), restaurants (LD)</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.140036970377" lon="-72.6862350292504">
+        <name>Massachussetts Turnpike (I-90)</name>
+        <cmt>Massachussetts Turnpike (I-90), cross under I-90 through tunnel</cmt>
+    </wpt>
+    <wpt lat="41.7382389586419" lon="-72.8024999890476">
+        <name>Metacomet Road 2</name>
+        <cmt>Metacomet Road, NOBO turn W on road, trail near road starts in 400 ft</cmt>
+    </wpt>
+    <wpt lat="42.5779919978231" lon="-72.4357980117202">
+        <name>Mill Foundation</name>
+        <cmt>Mill Remnants</cmt>
+    </wpt>
+    <wpt lat="42.5786990113556" lon="-72.4365300033242">
+        <name>Mill Foundation 2</name>
+        <cmt>Mill Remnants</cmt>
+    </wpt>
+    <wpt lat="41.610172027722" lon="-72.8213000111282">
+        <name>Millbrook Lane</name>
+        <cmt>Millbrook Lane, NOBO continue on road</cmt>
+    </wpt>
+    <wpt lat="41.611762996763" lon="-72.8214789647609">
+        <name>Millbrook Lane and Carey Street</name>
+        <cmt>Millbrook Lane + Carey Street, NOBO turn W</cmt>
+    </wpt>
+    <wpt lat="42.5977970100939" lon="-72.4377540126443">
+        <name>Miller River</name>
+        <cmt>Miller River, Bridge, Parking</cmt>
+        <desc>Wp</desc>
+    </wpt>
+    <wpt lat="41.6340637207031" lon="-72.8372740745544">
+        <name>Mine Hollow Road and Long Bottom Sreet</name>
+        <cmt>Mine Hollow Road and Long Bottom Sreet, Shuttle Meadow Reservoir, contine on Long Bottom Street</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.6720879729837" lon="-72.8312700334936">
+        <name>Missile remnant</name>
+        <cmt>Missile Remnant</cmt>
+    </wpt>
+    <wpt lat="42.599036693573" lon="-72.4392557144165">
+        <name>Mohawk Trail (MA2)</name>
+        <cmt>Mohawk Trail (MA2), trail crosses MA2 and continues on road, Parking 0.2W</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.5391169823706" lon="-72.445501992479">
+        <name>Montague Road</name>
+        <cmt>Montague Road</cmt>
+    </wpt>
+    <wpt lat="42.5770419929177" lon="-72.4352479912341">
+        <name>Mormon Hollow Brook</name>
+        <cmt>Mormon Hollow Brook, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5796829629689" lon="-72.4371240288019">
+        <name>Mormon Hollow Road</name>
+        <cmt>Mormon Hollow Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="42.6913070306182" lon="-72.3549490235746">
+        <name>Mount Grace</name>
+        <cmt>Mount Grace, lookout tower, picnic tables</cmt>
+        <desc>tP</desc>
+    </wpt>
+    <wpt lat="42.7053270209581" lon="-72.3536169715226">
+        <name>Mount Grace Shelter</name>
+        <cmt>Mount Grace Shelter, Picnic Table, Stream, no privy</cmt>
+        <desc>WSP</desc>
+    </wpt>
+    <wpt lat="42.3056669812649" lon="-72.5457819923759">
+        <name>Mount Hitchcock</name>
+        <cmt>Mount Hitchcock, Views, Pylons from old tower</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.2895859647542" lon="-72.5995430164039">
+        <name>Mount Holyoke Outing Club Cabin</name>
+        <cmt>Mount Holyoke Outing Club Cabin, Privy, Reservations Required</cmt>
+        <desc>Sr</desc>
+    </wpt>
+    <wpt lat="42.3636580165476" lon="-72.4233109876513">
+        <name>Mount Lincoln</name>
+        <cmt>Mount Lincoln, Communications Tower, NOBO follow Tower Road for 0.1</cmt>
+        <desc>t</desc>
+    </wpt>
+    <wpt lat="42.3055369779468" lon="-72.5102259591222">
+        <name>Mount Norwottock</name>
+        <cmt>Mount Norwottock, Views, Trail register and views on side trail N (compass S) of summit</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.2415070328861" lon="-72.6485560275614">
+        <name>Mount Tom</name>
+        <cmt>Mount Tom, Views, Communcations Tower</cmt>
+        <desc>vt</desc>
+    </wpt>
+    <wpt lat="42.7053659968078" lon="-72.3492090124637">
+        <name>Mountain Brook</name>
+        <cmt>Mountain Brook</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.7174990288913" lon="-72.8161179833114">
+        <name>Mountain Road</name>
+        <cmt>Mountain Road, trail crossing offset, NOBO turn E for 200 ft</cmt>
+    </wpt>
+    <wpt lat="41.905166991055" lon="-72.7631750330329">
+        <name>Mountain Road 2</name>
+        <cmt>Mountain Road, Limited parking,NOBO turn W on road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.2911009937525" lon="-72.5999020133168">
+        <name>Mountain Road 3</name>
+        <cmt>Mountain Road, limited parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.6267849840224" lon="-72.4175660312176">
+        <name>Mountain Road 4</name>
+        <cmt>Mountain Road, Parking, NOBO turn W on road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.6298739667982" lon="-72.4187519866973">
+        <name>Mountain Road 5</name>
+        <cmt>Mountain Road, NOBO turn E on to trail</cmt>
+    </wpt>
+    <wpt lat="41.3351320289075" lon="-72.6703209802508">
+        <name>N Madison Road</name>
+        <cmt>N Madison Road, NOBO turn W along road</cmt>
+    </wpt>
+    <wpt lat="41.3347170408815" lon="-72.6743550226092">
+        <name>N Madison Road 2</name>
+        <cmt>North Madison Road, Parking on shoulder, NOBO turn E to trail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.4058339688927" lon="-72.6838020142168">
+        <name>NET Split</name>
+        <cmt>NET spur to E. Eastern terminus 26.5 miles</cmt>
+        <desc>j</desc>
+    </wpt>
+    <wpt lat="41.4340750314295" lon="-72.7274500206113">
+        <name>New Haven Road (CT17)</name>
+        <cmt>New Haven Road (CT17), limited parking on shoulder, NOBO turn E onto trail after guard rail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.4300012588501" lon="-72.7313590049744">
+        <name>New Haven Road (CT17) and Stage Coach Road</name>
+        <cmt>New Haven Road (CT17) + Stage Coach Road, NOBO turn E, convenience store 0.1W on CT17, Artie Bar and Grill (D) 0.1E on trail</cmt>
+    </wpt>
+    <wpt lat="41.566869020462" lon="-72.7587079815567">
+        <name>North Branch Harbor Brook</name>
+        <cmt>North Branch Harbor Brook, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.286485414952" lon="-72.6165399234742">
+        <name>North Street (US 5) and East Street</name>
+        <cmt>North Street (US 5) + East Street, NOBO turn W on US5, Manhan Rail Trail and Parking 200 ft N of intersection</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.3898890148848" lon="-72.4269680120051">
+        <name>North Valley Road</name>
+        <cmt>North Valley Road, Limited Parking, NOBO turn E on trail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.7220510132611" lon="-72.2486469615251">
+        <name>Northern Terminus</name>
+        <cmt>Northern Terminus, NH/MA state line</cmt>
+    </wpt>
+    <wpt lat="42.6795509923249" lon="-72.3501069657505">
+        <name>Northfield Road</name>
+        <cmt>Northfield Road</cmt>
+    </wpt>
+    <wpt lat="42.3051379993558" lon="-72.5275530293584">
+        <name>Notch Visitor Center</name>
+        <cmt>Notch Visitor Center, Water and restrooms when open, outlet outside</cmt>
+        <desc>WR</desc>
+    </wpt>
+    <wpt lat="42.5069080106914" lon="-72.4390579853207">
+        <name>Old Egypt Road</name>
+        <cmt>Old Egypt Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="41.9128559622914" lon="-72.762208012864">
+        <name>Old Hartford Road and Hartford Avenue</name>
+        <cmt>Old Hartford Road + Hartford Avenue, Limited parking, NOBO turn E on trail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.7466780263931" lon="-72.7945530228317">
+        <name>Old Mountain Road</name>
+        <cmt>Old Mountain Road, trail crossing offset, NOBO turn W for 200 ft, gate</cmt>
+    </wpt>
+    <wpt lat="42.0612640120089" lon="-72.7074079681188">
+        <name>Old Southwick Road</name>
+        <cmt>Old Southwick Road, follow road between driveway and Feeding Hills Road</cmt>
+    </wpt>
+    <wpt lat="41.3530080299824" lon="-72.68490197137">
+        <name>Old Toll Road (CT80)</name>
+        <cmt>Old Toll Road (CT80), Parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.1085357666016" lon="-72.6875424385071">
+        <name>Old Westfield Road and Sikes Avenue</name>
+        <cmt>Old Westfield Road + Sikes Avenue, NOBO turn W on Sikes</cmt>
+    </wpt>
+    <wpt lat="42.1074282657355" lon="-72.6879911217839">
+        <name>Old Westfield Road and Westfield Street (US20)</name>
+        <cmt>Old Westfield Road + Westfield Street (US20), NOBO cross US20 and follow Old Westfield Road, Little George's (BL)</cmt>
+    </wpt>
+    <wpt lat="41.2734520342201" lon="-72.6700049825013">
+        <name>Old Whitfield Street and New Whitfield Street</name>
+        <cmt>Old Whitfield Street + New Whitfield Street, NOBO continue on Old Whitfield Street</cmt>
+    </wpt>
+    <wpt lat="41.2731310073286" lon="-72.6688170153648">
+        <name>Old Whitfield Street and Seaside Avenue</name>
+        <cmt>Old Whitfield Street + Seaside Avenue, NOBO turn W along Old Whitfield</cmt>
+    </wpt>
+    <wpt lat="42.7043060213327" lon="-72.3382899910212">
+        <name>Old Winchester Road</name>
+        <cmt>Old Winchester Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="42.701811986044" lon="-72.3341130372137">
+        <name>Old Winchester Road 2</name>
+        <cmt>Old Winchester Road, NOBO turn W trail</cmt>
+    </wpt>
+    <wpt lat="42.3188440036029" lon="-72.4360710103065">
+        <name>Orchard Street</name>
+        <cmt>Orchard Street</cmt>
+    </wpt>
+    <wpt lat="42.6100060064346" lon="-72.4328370206058">
+        <name>Packard Brook</name>
+        <cmt>Packard Brook, drain from Northfield Mountain Reservoir, do not drink</cmt>
+    </wpt>
+    <wpt lat="42.3573170229793" lon="-72.4280890077353">
+        <name>Packardville Road</name>
+        <cmt>Packardville Road, Limited parking 0.2W</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.2664479725063" lon="-72.6356209907681">
+        <name>Park Building</name>
+        <cmt>Park Building</cmt>
+    </wpt>
+    <wpt lat="41.5670769754797" lon="-72.8220230340958">
+        <name>Park Drive and West Peak Road</name>
+        <cmt>Park Drive, NOBO turn W on road then E on West Peak Road along Merimere Reservoir</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.5579560399055" lon="-72.7229790296406">
+        <name>Parking 10</name>
+        <cmt>Parking, 0.8E on Tynan Park Trail (Blue/Red) to Higby Road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5709459781647" lon="-72.7267369721085">
+        <name>Parking 11</name>
+        <cmt>Parking, Park &amp; Ride lot</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.8780399672687" lon="-72.7721750177443">
+        <name>Parking 12</name>
+        <cmt>Parking to W at end of Wintobury Road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.1066690329462" lon="-72.6884070318192">
+        <name>Parking 13</name>
+        <cmt>Parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.1407539583743" lon="-72.6868200022727">
+        <name>Parking 14</name>
+        <cmt>Parking, NOBO turn E on closed road for 100 ft then W on trail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.309320628643" lon="-72.6700768154114">
+        <name>Parking 15</name>
+        <cmt>Parking to W on Foote Bridge Road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.3124821987003" lon="-72.672998663038">
+        <name>Parking 16</name>
+        <cmt>Parking to W on Sullivan Drive</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.4746403414756" lon="-72.7305292803794">
+        <name>Parking 17</name>
+        <cmt>Limited Parking on shoulder</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.5310449339449" lon="-72.7404459938407">
+        <name>Parking 18</name>
+        <cmt>Trail (Blue/Red) 300 ft W to parking on Meriden Road (CT66)</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.575310267508" lon="-72.7443039324135">
+        <name>Parking 19</name>
+        <cmt>Trail (Blue/Red) to limited parking on Footit Drive</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.6322933789343" lon="-72.8131064493209">
+        <name>Parking 20</name>
+        <cmt>Trail (Blue/Orange) 0.8E to parking on Wigwam Road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.2318315505981" lon="-72.6469369791448">
+        <name>Parking 21</name>
+        <cmt>Limited Parking 0.1W on Easthampton Road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.301999958232" lon="-72.6549489889294">
+        <name>Parking 9</name>
+        <cmt>Parking, NOBO turn W on trail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.040901016444" lon="-72.7143350243568">
+        <name>Pat Fletcher Memorial</name>
+        <cmt>Pat Fletcher Memorial</cmt>
+    </wpt>
+    <wpt lat="41.5010300092399" lon="-72.7457049675286">
+        <name>Pavillion</name>
+        <cmt>Pavillion, outlet</cmt>
+    </wpt>
+    <wpt lat="41.8240320123732" lon="-72.7987029869109">
+        <name>Pavillion 2</name>
+        <cmt>Pavillion</cmt>
+    </wpt>
+    <wpt lat="42.5493070296943" lon="-72.4489410035312">
+        <name>Pavillion 3</name>
+        <cmt>Pavillion, Privies</cmt>
+        <desc>r</desc>
+    </wpt>
+    <wpt lat="42.0062339678407" lon="-72.7259449660778">
+        <name>Phelps Road and Mountain Road (CT168)</name>
+        <cmt>Phelps Road + Mountain Road (CT168), Limited parking, trail crossing slightly offset, NOBO turn E for 250 ft on CT168</cmt>
+    </wpt>
+    <wpt lat="41.8245979584754" lon="-72.7987169846892">
+        <name>Picnic Area</name>
+        <cmt>Picnic Area</cmt>
+        <desc>P</desc>
+    </wpt>
+    <wpt lat="41.8612989597023" lon="-72.7787600085139">
+        <name>Picnic Area 2</name>
+        <cmt>Picnic Area, Service Road, Dock on Lake Louise</cmt>
+        <desc>P</desc>
+    </wpt>
+    <wpt lat="42.2638629935682" lon="-72.6377029716969">
+        <name>Picnic Area 3</name>
+        <cmt>Picnic Area</cmt>
+        <desc>P</desc>
+    </wpt>
+    <wpt lat="42.5057109910995" lon="-72.4338649772108">
+        <name>Picnic Area 4</name>
+        <cmt>Picnic Area</cmt>
+        <desc>P</desc>
+    </wpt>
+    <wpt lat="42.2311119642109" lon="-72.6431460119784">
+        <name>Pillars</name>
+        <cmt>Pillars, NOBO turn W on to trail</cmt>
+    </wpt>
+    <wpt lat="41.6897710226476" lon="-72.8330409619957">
+        <name>Pinnacle Rock</name>
+        <cmt>Pinnacle Rock, Foundation, Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5895360335708" lon="-72.7847089804709">
+        <name>Pipeline</name>
+        <cmt>Pipeline corridor, cross at a diagonal, NOBO bear E (compass SW)</cmt>
+    </wpt>
+    <wpt lat="41.5760529879481" lon="-72.8358970116824">
+        <name>Pipeline 2</name>
+        <cmt>Pipeline corridor</cmt>
+    </wpt>
+    <wpt lat="41.6446890402585" lon="-72.8327699750662">
+        <name>Pipeline 3</name>
+        <cmt>Pipeline corridor</cmt>
+    </wpt>
+    <wpt lat="41.6526309773326" lon="-72.8277710080147">
+        <name>Pipeline 4</name>
+        <cmt>Pipeline corridor</cmt>
+    </wpt>
+    <wpt lat="41.6624239739031" lon="-72.8218510374427">
+        <name>Pipeline 5</name>
+        <cmt>Pipeline corridor</cmt>
+    </wpt>
+    <wpt lat="41.756919035688" lon="-72.796342978254">
+        <name>Pipeline 6</name>
+        <cmt>Pipeline corridor</cmt>
+    </wpt>
+    <wpt lat="42.0506650116295" lon="-72.7117959782481">
+        <name>Pipeline 7</name>
+        <cmt>Pipeline corridor</cmt>
+    </wpt>
+    <wpt lat="41.4335019607097" lon="-72.7377389743924">
+        <name>Pistapaug Mountain</name>
+        <cmt>Pistapaug Mountain, trail skirt edge of summit</cmt>
+    </wpt>
+    <wpt lat="42.3056030273438" lon="-72.5235420372337">
+        <name>Plum Brook</name>
+        <cmt>Plum Brook</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.6395029891282" lon="-72.8164140321314">
+        <name>Powerlines 10</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.6984890401363" lon="-72.8301699925214">
+        <name>Powerlines 11</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.75009499304" lon="-72.7953760419041">
+        <name>Powerlines 12</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.7661719862372" lon="-72.7990000415593">
+        <name>Powerlines 13</name>
+        <cmt>Powerlines, NOBO joins trail</cmt>
+    </wpt>
+    <wpt lat="41.786391986534" lon="-72.7932689990848">
+        <name>Powerlines 14</name>
+        <cmt>Powerlines, service road, pipeline corridor</cmt>
+    </wpt>
+    <wpt lat="41.8203459866345" lon="-72.7898259647191">
+        <name>Powerlines 15</name>
+        <cmt>Service road, Powerlines, Pipeline corridor</cmt>
+    </wpt>
+    <wpt lat="41.8333019781858" lon="-72.7869020216167">
+        <name>Powerlines 16</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.887472961098" lon="-72.7701050229371">
+        <name>Powerlines 17</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.8923339620233" lon="-72.7688769903034">
+        <name>Powerlines 18</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.8981479853392" lon="-72.7662579808384">
+        <name>Powerlines 19</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.9224359747022" lon="-72.7500700112432">
+        <name>Powerlines 20</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.0138869807124" lon="-72.7232910040766">
+        <name>Powerlines 21</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.1030410099775" lon="-72.6968949660659">
+        <name>Powerlines 22</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.1182199660689" lon="-72.6825589779764">
+        <name>Powerlines 23</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.1227130014449" lon="-72.6840239670128">
+        <name>Powerlines 24</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.2846480179578" lon="-72.6213430054486">
+        <name>Powerlines 25</name>
+        <cmt>Powerlines, follow to Underwood Avenue</cmt>
+    </wpt>
+    <wpt lat="42.2901209816337" lon="-72.5983719807118">
+        <name>Powerlines 26</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.305601015687" lon="-72.5257189851254">
+        <name>Powerlines 27</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.3049280326813" lon="-72.5222699996084">
+        <name>Powerlines 28</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.3069179803133" lon="-72.4644699878991">
+        <name>Powerlines 29</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.38212200813" lon="-72.4217249639332">
+        <name>Powerlines 30</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.6885939761996" lon="-72.4031439609826">
+        <name>Powerlines 31</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.6863320358098" lon="-72.349880989641">
+        <name>Powerlines 32</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.7039930410683" lon="-72.3211309779435">
+        <name>Powerlines 33</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="42.7023100387305" lon="-72.3069430142641">
+        <name>Powerlines 34</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.3190090190619" lon="-72.6707789674401">
+        <name>Powerlines 5</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.4883170090616" lon="-72.7442679740489">
+        <name>Powerlines 6</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.5279309730977" lon="-72.7406859677285">
+        <name>Powerlines 7</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.5823959931731" lon="-72.7941800281405">
+        <name>Powerlines 8</name>
+        <cmt>Powerlines, NOBO join trail after powerline corridor</cmt>
+    </wpt>
+    <wpt lat="41.5867829974741" lon="-72.8174730017781">
+        <name>Powerlines 9</name>
+        <cmt>Powerlines</cmt>
+    </wpt>
+    <wpt lat="41.7249559890479" lon="-72.8077370021492">
+        <name>Prattling Pond Road</name>
+        <cmt>Prattling Pond Road, Parking E at Farmington Road (CT4)</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.7290819808841" lon="-72.8081349749118">
+        <name>Prattling Pond Road 2</name>
+        <cmt>Prattling Pond Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="41.735763028264" lon="-72.804520027712">
+        <name>Prattling Pond Road 4</name>
+        <cmt>Prattling Pond Road, road end, NOBO join trail</cmt>
+    </wpt>
+    <wpt lat="42.4523129872978" lon="-72.4001149926335">
+        <name>Prescott Road</name>
+        <cmt>Prescott Road, NOBO turn W on road</cmt>
+    </wpt>
+    <wpt lat="41.840158039704" lon="-72.7835879847407">
+        <name>Privy</name>
+        <cmt>Privy</cmt>
+        <desc>r</desc>
+    </wpt>
+    <wpt lat="41.5973379928619" lon="-72.7402370329946">
+        <name>Quail Run and Lamentation Drive</name>
+        <cmt>Quail Run and Lamentation Drive, turn E and cross guard rail to rejoin trail near stop sign</cmt>
+    </wpt>
+    <wpt lat="42.3760029673576" lon="-72.4302159994841">
+        <name>Queen Street Sign</name>
+        <cmt>Queen Street Sign</cmt>
+    </wpt>
+    <wpt lat="41.3742139935493" lon="-72.6906310021877">
+        <name>Race Hill Road</name>
+        <cmt>Race Hill Road, NOBO turn W along road</cmt>
+    </wpt>
+    <wpt lat="41.3739440124482" lon="-72.6944539882243">
+        <name>Race Hill Road 2</name>
+        <cmt>Race Hill Road, NOBO turn E on to trail</cmt>
+    </wpt>
+    <wpt lat="41.6175170056522" lon="-72.8234789706767">
+        <name>Ragged Mountain</name>
+        <cmt>Ragged Mountain, views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.3279900010675" lon="-72.4486120138317">
+        <name>Railroad</name>
+        <cmt>Railroad</cmt>
+    </wpt>
+    <wpt lat="41.6988959815353" lon="-72.8314049821347">
+        <name>Rattlesnake Cliff</name>
+        <cmt>Rattlesnake Cliff, trail register, views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.267136964947" lon="-72.6353759877384">
+        <name>Reservation Road</name>
+        <cmt>Reservation Road, NOBO turn 0.1E on road, Pavillion, drinking fountain, Porta Potties, Visitor Center, Parking 300 ft W</cmt>
+        <desc>Wr</desc>
+    </wpt>
+    <wpt lat="42.7040070388466" lon="-72.3114430066198">
+        <name>Rest Area</name>
+        <cmt>Rest Area, rock seats</cmt>
+    </wpt>
+    <wpt lat="42.7146679814905" lon="-72.3021329753101">
+        <name>Rest Area 2</name>
+        <cmt>Rest Area, small flat clearing</cmt>
+    </wpt>
+    <wpt lat="42.7103590965271" lon="-72.3220324516296">
+        <name>Richards Reservoir</name>
+        <cmt>Richards Reservoir</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.6799259986728" lon="-72.4009309709072">
+        <name>Richardson-Zlogar Cabin</name>
+        <cmt>Richardson-Zlogar Cabin, 200 ft E, Free reservation required, Views to Mount Grace and Monandnock, Porta Potty, Tent pads</cmt>
+        <desc>S</desc>
+    </wpt>
+    <wpt lat="42.7082989923656" lon="-72.3154450301081">
+        <name>Richmond Road</name>
+        <cmt>Richmond Road, limited parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.0381680130959" lon="-72.7155319601297">
+        <name>Rising Corners Road</name>
+        <cmt>Rising Corners Road, Parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.7649110965431" lon="-72.7979042753577">
+        <name>Road split</name>
+        <cmt>Road split, NOBO bear W</cmt>
+    </wpt>
+    <wpt lat="41.5588939748704" lon="-72.7227060310543">
+        <name>Roaring Brook</name>
+        <cmt>Roaring Brook, drain from Adder Reservoir</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3050260171294" lon="-72.5084609817713">
+        <name>Rock Squeeze</name>
+        <cmt>Rock Squeeze</cmt>
+    </wpt>
+    <wpt lat="41.6148450225592" lon="-72.8205629903823">
+        <name>Rock stairs</name>
+        <cmt>Challenging rock stairs, views at top</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.8644919618964" lon="-72.7787829749286">
+        <name>Rock Stairs 2</name>
+        <cmt>Rock Stairs</cmt>
+    </wpt>
+    <wpt lat="41.3940849713981" lon="-72.685982985422">
+        <name>Rockland Road</name>
+        <cmt>Rockland Road</cmt>
+    </wpt>
+    <wpt lat="41.6364669799805" lon="-72.8384679928422">
+        <name>Rogers Orchards</name>
+        <cmt>Rogers Orchards, seasonal farm store, donuts, baked goods</cmt>
+    </wpt>
+    <wpt lat="42.7192819677293" lon="-72.2485440317541">
+        <name>Royalston Falls Shelter</name>
+        <cmt>Royalston Falls Shelter</cmt>
+        <desc>S</desc>
+    </wpt>
+    <wpt lat="42.543010963127" lon="-72.4483700282872">
+        <name>Ruggles Pond</name>
+        <cmt>Ruggles Pond, Bog Bridging</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3265749681741" lon="-72.4461459740996">
+        <name>Scarboro Brook</name>
+        <cmt>Scarboro Brook</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3350439593196" lon="-72.4465639796108">
+        <name>Scarboro Brook 2</name>
+        <cmt>Scarboro Brook</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3386689648032" lon="-72.4448760319501">
+        <name>Scarboro Brook 3</name>
+        <cmt>Scarboro Brook</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3505300283432" lon="-72.4345099646598">
+        <name>Scarboro Pond</name>
+        <cmt>Scarboro Pond, Picnic tables</cmt>
+        <desc>WP</desc>
+    </wpt>
+    <wpt lat="41.301495032385" lon="-72.6553519908339">
+        <name>Scenic View 11</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.4828690234572" lon="-72.7431149594486">
+        <name>Scenic View 12</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.4841399714351" lon="-72.7433649916202">
+        <name>Scenic View 13</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.4984389953315" lon="-72.746342997998">
+        <name>Scenic View 14</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5117799676955" lon="-72.7469340059906">
+        <name>Scenic View 15</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5132199786603" lon="-72.7465399727225">
+        <name>Scenic View 16</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5195939969271" lon="-72.744484981522">
+        <name>Scenic View 17</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5216420311481" lon="-72.7435209788382">
+        <name>Scenic View 18</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5350209735334" lon="-72.7442760206759">
+        <name>Scenic View 19</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5490540396422" lon="-72.7415420114994">
+        <name>Scenic View 20</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5641979593784" lon="-72.7592239715159">
+        <name>Scenic View 22</name>
+        <cmt>Views to Bradley Hubbard Reservoir, more views to N (compass S)</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5574770141393" lon="-72.759078964591">
+        <name>Scenic View 23</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5684510208666" lon="-72.7655350416899">
+        <name>Scenic View 24</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5590119920671" lon="-72.8295919764787">
+        <name>Scenic View 25</name>
+        <cmt>Multiple views to Merimere Reservoir and Meriden</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5606430266052" lon="-72.8434719890356">
+        <name>Scenic View 26</name>
+        <cmt>150 ft W to view</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5647029690444" lon="-72.8447120077908">
+        <name>Scenic View 27</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.6021150071174" lon="-72.8225660137832">
+        <name>Scenic View 28</name>
+        <cmt>Views back to West Peak</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.6239590011537" lon="-72.8210540022701">
+        <name>Scenic View 29</name>
+        <cmt>Views to Wassel Reservoir</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.6394764184952" lon="-72.8192305192351">
+        <name>Scenic View 30</name>
+        <cmt>Views to Shuttle Meadow Reservoir</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.6295923106372" lon="-72.825572937727">
+        <name>Scenic View 31</name>
+        <cmt>Views from powerlines corridor</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.6487879585475" lon="-72.8335520066321">
+        <name>Scenic view 32</name>
+        <cmt>Views to Plainville Reservoir</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.6848049964756" lon="-72.835090002045">
+        <name>Scenic View 33</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.8242060206831" lon="-72.7989540249109">
+        <name>Scenic View 34</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.831663986668" lon="-72.7972069848329">
+        <name>Scenic View 35</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.8849260360003" lon="-72.7715740352869">
+        <name>Scenic View 36</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.906527960673" lon="-72.758063999936">
+        <name>Scenic View 37</name>
+        <cmt>Views to Farmington River</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.9591109920293" lon="-72.7395010180771">
+        <name>Scenic View 38</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.968975989148" lon="-72.7405739855021">
+        <name>Scenic View 39</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.9883360061795" lon="-72.7356679737568">
+        <name>Scenic View 40</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.0828660205007" lon="-72.7054719999433">
+        <name>Scenic View 41</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.154186964035" lon="-72.6858570054173">
+        <name>Scenic View 42</name>
+        <cmt>Views, Communications Tower</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.1663239598274" lon="-72.6813099905849">
+        <name>Scenic View 43</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.1742600295693" lon="-72.6790779735893">
+        <name>Scenic View 44</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.1905960235745" lon="-72.6622920390218">
+        <name>Scenic View 45</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.1933100000024" lon="-72.6637410186231">
+        <name>Scenic View 46</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.2055289708078" lon="-72.6616059802473">
+        <name>Scenic View 47</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.2119839582592" lon="-72.6538910251111">
+        <name>Scenic View 48</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.2409130074084" lon="-72.6487580314279">
+        <name>Scenic View 49</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.2470560204238" lon="-72.6471310202032">
+        <name>Scenic View 50</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.2922219894826" lon="-72.5980259757489">
+        <name>Scenic View 51</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.3059590067714" lon="-72.4994599912316">
+        <name>Scenic View 52</name>
+        <cmt>Side trail to views 350 ft W</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.3050720337778" lon="-72.4838519655168">
+        <name>Scenic View 53</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.5631639920175" lon="-72.4451500363648">
+        <name>Scenic View 54</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.5653980206698" lon="-72.4450799636543">
+        <name>Scenic View 55</name>
+        <cmt>Side trail to views, 200 ft W</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.6133190374821" lon="-72.4261940270662">
+        <name>Scenic View 56</name>
+        <cmt>Side trail to views, 50 ft E</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.6137760188431" lon="-72.4234929587692">
+        <name>Scenic View 57</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.70756800659" lon="-72.3191169742495">
+        <name>Scenic View 58</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.5515410341322" lon="-72.7407739777118">
+        <name>Scenic Views 21</name>
+        <cmt>Views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.1140649728477" lon="-72.6869579683989">
+        <name>Service Road 1</name>
+        <cmt>Service Road, NOBO cross parallel service road and enter woods</cmt>
+    </wpt>
+    <wpt lat="41.5691619738936" lon="-72.7560990303755">
+        <name>Service Road 2</name>
+        <cmt>Service road, trail has slight offset, NOBO turn E</cmt>
+    </wpt>
+    <wpt lat="41.567407976836" lon="-72.758507989347">
+        <name>Service Road 3</name>
+        <cmt>Service road</cmt>
+    </wpt>
+    <wpt lat="41.6396990418434" lon="-72.8134510293603">
+        <name>Service Road 4</name>
+        <cmt>Service road, NOBO turn E on road for 300 ft then W on trail</cmt>
+    </wpt>
+    <wpt lat="41.6316721960902" lon="-72.8305387124419">
+        <name>Service road 5</name>
+        <cmt>Service Road</cmt>
+    </wpt>
+    <wpt lat="41.820764997974" lon="-72.7971820067614">
+        <name>Service Road 6</name>
+        <cmt>Service road</cmt>
+    </wpt>
+    <wpt lat="42.1106689609587" lon="-72.6892349962145">
+        <name>Service Road 7</name>
+        <cmt>Service Road, NOBO turn E to join road</cmt>
+    </wpt>
+    <wpt lat="42.387066995725" lon="-72.419440979138">
+        <name>Service Road 8</name>
+        <cmt>Service Road, NOBO turn W on road</cmt>
+    </wpt>
+    <wpt lat="41.6033940017223" lon="-72.8251120168716">
+        <name>Short Mountain</name>
+        <cmt>Short Mountain, Views, trail skirts summit</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.3978769686073" lon="-72.4060809798539">
+        <name>Shutesbury Road 2</name>
+        <cmt>Shuttesbury Road, Parking, NOBO turn W through parking lot</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.4069969821721" lon="-72.4120769742876">
+        <name>Shuttesbury Road</name>
+        <cmt>Shuttesbury Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="41.6391409747303" lon="-72.8384799789637">
+        <name>Shuttle Meadow Road and North Shuttle Street</name>
+        <cmt>Shuttle Meadow Road and North Shuttle Street, NOBO join trail as Shuttle Meadow Road curves W</cmt>
+    </wpt>
+    <wpt lat="42.1111489925534" lon="-72.686982024461">
+        <name>Sikes Avenue</name>
+        <cmt>Sikes Avenue, NOBO turn W on to trail</cmt>
+    </wpt>
+    <wpt lat="41.5001889690757" lon="-72.7460140082985">
+        <name>Ski Lifts</name>
+        <cmt>Powder Ridge Resort, 747, Middlefield, and Festival Ski Lifts</cmt>
+    </wpt>
+    <wpt lat="41.6013769805431" lon="-72.8176989778876">
+        <name>Sountington Road (CT364) and Edgewood Road</name>
+        <cmt>Sountington Road (CT364) and Edgewood Road, NOBO turn W on CT364 then cross guardrail to join trail</cmt>
+    </wpt>
+    <wpt lat="42.6387789845467" lon="-72.4178630020469">
+        <name>South Mountain Road</name>
+        <cmt>South Mountain Road, Limited Parking 350 ft N (compass E), NOBO turn E on road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.2676049862057" lon="-72.6719909906387">
+        <name>Southern Terminus</name>
+        <cmt>Southern Terminus, Long Island Sound</cmt>
+    </wpt>
+    <wpt lat="41.6005220264196" lon="-72.7400699816644">
+        <name>Spruce Brook Road</name>
+        <cmt>Spruce Brook Road, NOBO turn W on road, Limited parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.6792449690402" lon="-72.4062119890004">
+        <name>Stacked Stones</name>
+        <cmt>Stacked Stones, views</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="41.4295320399106" lon="-72.7275989670306">
+        <name>Stage Coach Road</name>
+        <cmt>Stage Coach Road, limited parking on shoulder, NOBO turn W along road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.1025589667261" lon="-72.69651199691">
+        <name>Stairway</name>
+        <cmt>Stairway</cmt>
+    </wpt>
+    <wpt lat="42.2635599877685" lon="-72.6378720346838">
+        <name>Stairway 2</name>
+        <cmt>Stairway</cmt>
+    </wpt>
+    <wpt lat="42.3045110329986" lon="-72.5391919724643">
+        <name>Stairway 3</name>
+        <cmt>Stairway</cmt>
+    </wpt>
+    <wpt lat="42.3075560107827" lon="-72.4779549613595">
+        <name>Stairway 4</name>
+        <cmt>Stairway</cmt>
+    </wpt>
+    <wpt lat="42.0363550074399" lon="-72.7155499812216">
+        <name>State Line</name>
+        <cmt>State Line, CT/MA border, white blazes to N, blue blazes to S</cmt>
+    </wpt>
+    <wpt lat="42.0527810230851" lon="-72.7100719884038">
+        <name>Still Brook</name>
+        <cmt>Still Brook, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.6484159696847" lon="-72.8334209974855">
+        <name>Stone Fireplace</name>
+        <cmt>Stone Fireplace</cmt>
+    </wpt>
+    <wpt lat="41.27839400433" lon="-72.6744039729238">
+        <name>Stone House Lane</name>
+        <cmt>Stone House Lane, Parking at museum, NOBO turn W on road</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.3004039842635" lon="-72.5879479944706">
+        <name>Summit House</name>
+        <cmt>Summit House, Views, Parking, Porta Potties, Interior and bathrooms with water temporarily closed</cmt>
+        <desc>vpr</desc>
+    </wpt>
+    <wpt lat="41.5829910244793" lon="-72.7933259960264">
+        <name>Summit Wood Drive</name>
+        <cmt>Summit Wood Drive, NOBO turn W on road, Limited parking on shoulder</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.7414649855345" lon="-72.7993430290371">
+        <name>Talcott Notch Road</name>
+        <cmt>Talcott Notch Road</cmt>
+    </wpt>
+    <wpt lat="41.2883660383523" lon="-72.6581079605967">
+        <name>Tanner Marsh Road and Boston Post Road (US1)</name>
+        <cmt>Tanner Marsh Road + Boston Post Road (US1), NOBO turn W, hotels on US1</cmt>
+    </wpt>
+    <wpt lat="42.3016669694334" lon="-72.582230027765">
+        <name>Taylor Notch</name>
+        <cmt>Taylor Notch, Skinner Park Road</cmt>
+    </wpt>
+    <wpt lat="42.208685008809" lon="-72.6572219934314">
+        <name>Tent Platforms</name>
+        <cmt>Tent Platforms on trail (unknown ownership)</cmt>
+    </wpt>
+    <wpt lat="41.8652100395411" lon="-72.7795919962227">
+        <name>The Pinnacle</name>
+        <cmt>The Pinnacle, Views to Heublein Tower, Pylons from old tower</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.447648961097" lon="-72.3997089732438">
+        <name>Town Farm Road</name>
+        <cmt>Town Farm Road, NOBO turn E on road</cmt>
+    </wpt>
+    <wpt lat="41.2694670259953" lon="-72.6706789713353">
+        <name>Trail Register</name>
+        <cmt>Southern Terminus sign and trail register, parking</cmt>
+    </wpt>
+    <wpt lat="42.1302100270987" lon="-72.6846550405025">
+        <name>Trail Register 2</name>
+        <cmt>Trail Register</cmt>
+    </wpt>
+    <wpt lat="42.3028759751469" lon="-72.5775710307062">
+        <name>Trail Register 3</name>
+        <cmt>Trail Register</cmt>
+    </wpt>
+    <wpt lat="42.3023110348731" lon="-72.4935670103878">
+        <name>Trail Register 4</name>
+        <cmt>Trail Register</cmt>
+    </wpt>
+    <wpt lat="42.3101259861141" lon="-72.4574799835682">
+        <name>Trail Register 5</name>
+        <cmt>Trail Register</cmt>
+    </wpt>
+    <wpt lat="41.4595659915358" lon="-72.7365410327911">
+        <name>Trimountain</name>
+        <cmt>Trimountain, trail skirts southern peaks (northern peak removed by quarrying), views to William J Ulbrich Reservoir</cmt>
+        <desc>v</desc>
+    </wpt>
+    <wpt lat="42.71136299707" lon="-72.3027399927378">
+        <name>Tully Brook</name>
+        <cmt>Tully Brook, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.9470040034503" lon="-72.7399740088731">
+        <name>Turkey Hill Road (CT20) and Holcomb Street</name>
+        <cmt>Turkey Hill Road (CT20) + Holcomb Street, Limited Parking, NOBO bear E after crossing CT20 onto trail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.5084299966693" lon="-72.421550033614">
+        <name>Tyler Brook</name>
+        <cmt>Tyler Brook</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.2854309715331" lon="-72.6205499935895">
+        <name>Underwood Avenue</name>
+        <cmt>Underwood Avenue, NOBO turn W on road</cmt>
+    </wpt>
+    <wpt lat="42.4987759720534" lon="-72.3938689660281">
+        <name>Unnamed Lake</name>
+        <cmt>Lake</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.7049240190536" lon="-72.3529530409724">
+        <name>Unnamed Stream</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.419611973688" lon="-72.7074330300093">
+        <name>Unnamed Stream 10</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.4342740178108" lon="-72.7279209997505">
+        <name>Unnamed Stream 11</name>
+        <cmt>Stream, drain from unnamed pond a short distance away</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.4678970165551" lon="-72.7260100096464">
+        <name>Unnamed Stream 12</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.5683340094984" lon="-72.7344609797001">
+        <name>Unnamed Stream 13</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.5776779875159" lon="-72.8326520416886">
+        <name>Unnamed Stream 14</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.5807300060987" lon="-72.8283869940788">
+        <name>Unnamed Stream 15</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.6033489909023" lon="-72.8170949779451">
+        <name>Unnamed Stream 16</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.6091119684279" lon="-72.8200879879296">
+        <name>Unnamed Stream 17</name>
+        <cmt>Stream, Footbridge, drain from Wassel Reservoir and Hart Pond</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.6082840040326" lon="-72.8201989643276">
+        <name>Unnamed Stream 18</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.6400430351496" lon="-72.8080949932337">
+        <name>Unnamed Stream 19</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.78705801256" lon="-72.7860960178077">
+        <name>Unnamed Stream 20</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.8375009763986" lon="-72.7861769869924">
+        <name>Unnamed Stream 21</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.9116069748998" lon="-72.7604710310698">
+        <name>Unnamed Stream 22</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.9114020373672" lon="-72.757524959743">
+        <name>Unnamed Stream 23</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.0373459998518" lon="-72.7155369892716">
+        <name>Unnamed Stream 24</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.1145099680871" lon="-72.6853260118514">
+        <name>Unnamed Stream 25</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.1167790330946" lon="-72.6836499664932">
+        <name>Unnamed Stream 26</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3722819890827" lon="-72.4280709866434">
+        <name>Unnamed Stream 27</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3741189669818" lon="-72.4296180345118">
+        <name>Unnamed Stream 28</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3765180353075" lon="-72.428535008803">
+        <name>Unnamed Stream 29</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.3942070361227" lon="-72.4248339794576">
+        <name>Unnamed Stream 30</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.4211130291224" lon="-72.4029179848731">
+        <name>Unnamed Stream 31</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.4710980057716" lon="-72.3820150271058">
+        <name>Unnamed Stream 32</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.4773130193353" lon="-72.3761119879782">
+        <name>Unnamed Stream 33</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5024439767003" lon="-72.3769569676369">
+        <name>Unnamed Stream 34</name>
+        <cmt>Stream, Footbridge, drain from Sibley Swamp</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5539510231465" lon="-72.45117100887">
+        <name>Unnamed Stream 35</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5583439785987" lon="-72.4537220411003">
+        <name>Unnamed Stream 36</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5593479629606" lon="-72.4532870203257">
+        <name>Unnamed Stream 37</name>
+        <cmt>Stream, Footbridges</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5600610114634" lon="-72.4527789931744">
+        <name>Unnamed Stream 38</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5776039995253" lon="-72.4354720395058">
+        <name>Unnamed Stream 39</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.6623390056193" lon="-72.4056069832295">
+        <name>Unnamed Stream 40</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.679559038952" lon="-72.4051970243454">
+        <name>Unnamed Stream 41</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.6855230145156" lon="-72.391305025667">
+        <name>Unnamed Stream 42</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.6839730329812" lon="-72.3749189916998">
+        <name>Unnamed Stream 43</name>
+        <cmt>Stream, Footbridge, drain from Stevens Swamp</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.6793990284204" lon="-72.3497890401632">
+        <name>Unnamed Stream 44</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.704941034317" lon="-72.3472749721259">
+        <name>Unnamed Stream 46</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.7030639909208" lon="-72.329583959654">
+        <name>Unnamed Stream 47</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.7081979904324" lon="-72.3169980291277">
+        <name>Unnamed Stream 48</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.7033479698002" lon="-72.3007799685001">
+        <name>Unnamed Stream 49</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.7134680282325" lon="-72.2745320387185">
+        <name>Unnamed Stream 50</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.3201710022986" lon="-72.6707259938121">
+        <name>Unnamed Stream 7</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.3579009659588" lon="-72.6829749718308">
+        <name>Unnamed Stream 8</name>
+        <cmt>Stream, Footbridge</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.4062440115958" lon="-72.6932459883392">
+        <name>Unnamed Stream 9</name>
+        <cmt>Stream</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.341668991372" lon="-72.6810260117054">
+        <name>Upper Guilford Lake</name>
+        <cmt>Upper Guilford Lake</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="41.9601510185748" lon="-72.7396430075169">
+        <name>Utility Buildings</name>
+        <cmt>Utility Buildings, 2 sets 0.1 apart</cmt>
+    </wpt>
+    <wpt lat="42.304054973647" lon="-72.5337240379304">
+        <name>Utility Conduit</name>
+        <cmt>Utility Conduit</cmt>
+    </wpt>
+    <wpt lat="41.5704780165106" lon="-72.8033960144967">
+        <name>Victoria Drive (private)</name>
+        <cmt>Victoria Drive (private), NOBO turn E at dirt road</cmt>
+    </wpt>
+    <wpt lat="41.5694084018469" lon="-72.8047090396285">
+        <name>Victoria Drive (private) and dirt road</name>
+        <cmt>Victoria Drive (private) + dirt road, NOBO bear E at junction following unnamed dirt road</cmt>
+    </wpt>
+    <wpt lat="41.4742860384285" lon="-72.7266069687903">
+        <name>Wallingford Road (CT68)</name>
+        <cmt>Wallingford Road (CT68), Reed Gap, NOBO go 0.2W along road</cmt>
+    </wpt>
+    <wpt lat="42.2499239724129" lon="-72.6460940111428">
+        <name>Weather Station</name>
+        <cmt>Weather Station</cmt>
+    </wpt>
+    <wpt lat="42.553325984627" lon="-72.4504850339144">
+        <name>Wendell State Forest Lean-to</name>
+        <cmt>Wendell State Forest Lean-to, firepit</cmt>
+        <desc>S</desc>
+    </wpt>
+    <wpt lat="42.4640540219843" lon="-72.3827890120447">
+        <name>West Branch Swift River</name>
+        <cmt>West Branch Swift River</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.5148579943925" lon="-72.3935659602284">
+        <name>West Branch Swift River 2</name>
+        <cmt>West Branch Swift River</cmt>
+        <desc>W</desc>
+    </wpt>
+    <wpt lat="42.2087359707803" lon="-72.6564169954509">
+        <name>West Cherry Street</name>
+        <cmt>West Cherry Street, Parking at Holyoke Revolver Club to E</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.6713080368936" lon="-72.8320880234241">
+        <name>West Main Street</name>
+        <cmt>West Main Street, Parking 0.2S (compass E) of trailhead, NOBO turn E on to trail</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.6683552600443" lon="-72.8170460276306">
+        <name>West Main Street (CT372) and Wooster Street</name>
+        <cmt>West Main Street (CT372) + Wooster Street, NOBO turn W</cmt>
+    </wpt>
+    <wpt lat="41.5681859850883" lon="-72.824684958905">
+        <name>West Peak Road</name>
+        <cmt>West Peak Road, NOBO turn W on to trail</cmt>
+    </wpt>
+    <wpt lat="42.3053840082139" lon="-72.5287170242518">
+        <name>West Street</name>
+        <cmt>West Street, Parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.1060190163553" lon="-72.6888119615614">
+        <name>Westfield River</name>
+        <cmt>Westfield River, Ford only when safe</cmt>
+    </wpt>
+    <wpt lat="42.1844430360943" lon="-72.6706180348992">
+        <name>Westfield Road (US202)</name>
+        <cmt>Westfield Road (US202), Limited parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.5509362202138" lon="-72.4491932149976">
+        <name>Wickett Pond Road</name>
+        <cmt>Wickett Pond Road, Parking, Ruggles Pond spillway, Lyons Brook, Beach, Water spigot and outlet at Headquarters 0.2W, Privies 350 ft E</cmt>
+        <desc>pWrs</desc>
+    </wpt>
+    <wpt lat="41.3277090154588" lon="-72.6702199783176">
+        <name>Willow Road</name>
+        <cmt>Willow Road, limited parking on shoulder</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="42.7061180211604" lon="-72.3488429747522">
+        <name>Winchester Road</name>
+        <cmt>Winchester Road, limited parking</cmt>
+        <desc>p</desc>
+    </wpt>
+    <wpt lat="41.9733930006623" lon="-72.7394840028137">
+        <name>Windsor Locks Campsite</name>
+        <cmt>Windsor Locks Campsite, trail register, water cache by volunteers, no fires</cmt>
+        <desc>CW</desc>
+    </wpt>
+    <wpt lat="42.1153899841011" lon="-72.6833179593086">
+        <name>Wooden Structure</name>
+        <cmt>Wooden Structure</cmt>
+    </wpt>
+
+</gpx>

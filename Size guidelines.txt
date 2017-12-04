@@ -4,4 +4,12 @@ Recommended layout sizes
 
 Overall size
 
-Guidebooks are often stored inside resealable plastic bags to keep them dry and avoid abrasion. A quart size Ziploc bag measures approx 7" opening and 7 1/2" deep. The book will have thickness and additional room is need to insert and remove the book and bag sizes may vary between brands. The maximum recommended size is 5 1/4" x 6 1/4". If the book needs to be bigger, a gallon size bag measures around 10 1/2" x 10 3/4", but a standard sheet of paper (US) is 8 1/2" x 11" making it convenient to print two pages of size 5 1/2" x 8 1/2"
+Guidebooks are often stored inside resealable plastic bags to keep them dry and avoid abrasion. A quart size Ziploc bag measures approx 7" opening and 7 1/2" deep. The book will have thickness and additional room is need to insert and remove the book and bag sizes may vary between brands. The maximum recommended size is 6" x 7", but the aspect ratio feels more natural with 4.75" x 7".
+
+
+
+
+
+Distance per page
+
+There are two primary concerns with the distance per page: showing intuitive grades, and having readable space for text. Good grades are about 650 ft/mi displayed on a square plot area. Since the plot area probably won't be square, we can get the miles by multiplying the elevation spread by the plot height divided by the plot width: distance = (elevation * height) / (width * 650). For example, if our plot height is 3", the elevation is 1750' and the width is 6.1"
