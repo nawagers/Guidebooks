@@ -37,3 +37,11 @@ Please send a pull request to the master branch.
 - All text should be as accurate as possible
 - Keep everything professional looking
 - Try to be consistent with what is already there, unless you are trying to deliberately improve the style.
+
+### Software
+
+- Elevation profiles are generated with the latest version of [ProfileMaker](https://github.com/nawagers/ProfileMaker)
+- Images are edited with [GIMP](https://www.gimp.org/) 2.8 and saved in it's native .xcf format. They are also exported for use as .png
+- Maps are made in [QGIS](https://www.qgis.org/en/site/) 2.18 and saved in its native .qgs. They are exported as .png for use.
+- Supplemental pages are made in [Scribus](https://www.scribus.net/) 1.4 and saved in its native .sla as individual pages. Final pages are exported as .png
+- The end product is linking all the .png files into a .pdf
