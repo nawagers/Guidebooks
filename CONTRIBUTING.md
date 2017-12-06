@@ -41,6 +41,7 @@ Please send a pull request to the master branch.
 ### Software
 
 - Elevation profiles are generated with the latest version of [ProfileMaker](https://github.com/nawagers/ProfileMaker)
+- Some GPX editors, like Basecamp, do not properly use the GPX format and do not make usable output for ProfileMaker. One working editor is [GPX_Editor](https://sourceforge.net/projects/gpxeditor/).
 - Images are edited with [GIMP](https://www.gimp.org/) 2.8 and saved in it's native .xcf format. They are also exported for use as .png
 - Maps are made in [QGIS](https://www.qgis.org/en/site/) 2.18 and saved in its native .qgs. They are exported as .png for use.
 - Supplemental pages are made in [Scribus](https://www.scribus.net/) 1.4 and saved in its native .sla as individual pages. Final pages are exported as .png
