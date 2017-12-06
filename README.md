@@ -6,4 +6,4 @@ Inside each sub-folder the Processed Data folder contains relevant GPX files. Re
 
 The main project also contains PossibleProjects.xlsx, a spreadsheet of potential new projects to add in the future. Various guidelines and suggestions that apply to all projects are listed here.
 
-If you have any issues or suggestions, feel free to file an [Issue](https://github.com/nawagers/Guidebooks/issues). If you'd like to contribute, please see CONTRIBUTING.md to get started. 
+If you have any issues or suggestions, feel free to file an [Issue](https://github.com/nawagers/Guidebooks/issues). If you'd like to contribute, please see [CONTRIBUTING.md](https://github.com/nawagers/Guidebooks/blob/master/CONTRIBUTING.md) to get started. 
